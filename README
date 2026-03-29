@@ -166,3 +166,10 @@ Communication and Support
 * Bugzilla: https://bugzilla.kernel.org/
 * MAINTAINERS file: Lists subsystem maintainers and mailing lists
 * Email Clients: Documentation/process/email-clients.rst
+
+WARN
+====
+This is not the official Linux source code 
+this is simply a fork of Linux with optimizations.
+
+The official source code can be found at: https://github.com/torvalds/linux
